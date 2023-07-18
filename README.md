@@ -5,9 +5,9 @@
 - Editor - VS Code + Extensions
 - Code hosting - GitHub, Gitlab
 - Version management - Git
-- Core Libraries - STL
-- Some useful libraries for data 
+- Conan/Conda - Dependency Management 
 - Project management - Jira + integration, monday
 - Unittest - Google test vs doctest
 - CI/CD - Jenkins
 - Scripting - Python, Shellscript
+- Messaging - Slack/Teams
