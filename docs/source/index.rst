@@ -1,8 +1,8 @@
 =====================
-Welcome to CppPro!
+Welcome to CppDevPro!
 =====================
 
-Learn To Develop C++ Software Like A Pro Even You Are Finding Your First Dev Job - Fundamental tools you need to know in your C++ Software Development.
+Learn To Develop C++ Software Like A Pro - Common tools you need to know in C++ Software Development.
 
 .. toctree::
    :maxdepth: 2

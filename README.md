@@ -1,4 +1,4 @@
-# Tools for C++ development
+# Advanced C++ software development - Tools and Best practices
 
 - Compiler - Gcc
 - Builder - CMake
@@ -7,7 +7,8 @@
 - Version management - Git
 - Conan/Conda - Dependency Management 
 - Project management - Jira + integration, monday
-- Unittest - Google test vs doctest
-- CI/CD - Jenkins
+- Testing - Google test + CTest, cppcheck
+- CI/CD - Jenkins, Docker, CPack, releases
 - Scripting - Python, Shellscript
 - Messaging - Slack/Teams
+- Documentation
